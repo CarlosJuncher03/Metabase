@@ -12,10 +12,10 @@ O Metabase é uma plataforma de BI (Business Intelligence) de código aberto que
 - **Controle de Acesso**: Recursos avançados de controle de acesso, permitindo que os administradores gerenciem permissões de acesso aos dados e dashboards.
 - **Integração com Ferramentas de Colaboração**: Integração com ferramentas de colaboração populares, como Slack e Microsoft Teams.
 
+## Exemplo de gráfico criado no Metabase
+
+![image](https://github.com/CarlosJuncher03/Metabase/assets/145303814/ef10b954-c053-4ce2-aeca-070d99b28e77)
+
 ## Resumo
 
 O Metabase é uma ferramenta poderosa e acessível para análise de dados que atende às necessidades de usuários de todos os níveis de habilidade. Com recursos avançados de visualização, exploração e compartilhamento de dados, o Metabase capacita as empresas a tomar decisões mais informadas e estratégicas com base em dados.
-
-## Exemplo de grafico criado no mesmo
-
-![image](https://github.com/CarlosJuncher03/Metabase/assets/145303814/ef10b954-c053-4ce2-aeca-070d99b28e77)
